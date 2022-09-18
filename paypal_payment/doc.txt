@@ -1,0 +1,10 @@
+In this app there is a file class:
+there are 3 classes inside.
+    1- It is to create a login by making a token from Paypal
+    2- It is for making post , get , capture functions using links from Paypal
+    3- It is to make a validation and verify the validity of the response and the data entered..
+
+
+The second file is .env :
+    to save the fixed things in it and recall them at any time,
+    such as links and values ​​for certain things ....
